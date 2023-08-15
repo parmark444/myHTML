@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+<style>
+</style>
+  <!--<img src="title_image.jpg"> -->
+  <h1>Recipie Website</h1>
+  <h2>Kush's message</h2>
+  <p>Hey there, welcome to my recipie website. Here you will find some of my favorite dishes and recipies</p>
+  <ul>
+    <li><a href="recipie1.html">Recipie 1</a></li>
+    <li><a href="recipie2.html">Recipie 2</a></li>
+  </ul> 
+  <p> There arent any links on the left for you to navigate to. All the information should be in these 2 links </p>
+</body>
+</html>
