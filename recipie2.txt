@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<body>
+<style>
+  .color{
+    background-color: red;
+  }
+  table{
+    border: 0px ;
+    border-collapse: collapse;
+  }
+  .right{
+    text-align: right;
+  }
+</style>
+</head>
+<body>
+  <h1 style="color:Blue;">Turkey Sandwich</h1>
+  <p>Here is the recipie and ingredients for my own Turkey Sandwich! Enjoy</p>
+  <ul>
+    <li>Oven roasted turkey Breast</li>
+    <li>Pesto Sauce</li>
+    <li>Trader Joe's Sour Dough Bread (big slices)</li>
+    <li>Butter</li>
+    <li>Pepperjack cheese</li>
+    <li>Spinach</li>
+  </ul>
+  <table>
+    <tr>
+      <th class = "color">Step 1:</th>
+      <th class = "right">Prepare all ingredients, chopping board, and Panini Grill (similar items may work as well)</th>
+    </tr>
+    <tr>
+      <th class = "color">Step 2:</th>
+      <th class = "right">Take 3-4 pieces of turkey, and tear up into smaller pieces. Set aside</th>
+    </tr>
+    <tr>
+      <th class = "color">Step 3:</th>
+      <th class = "right">Spread Butter on outside faces of bread</th>
+    </tr>
+    <tr>
+      <th class = "color">Step 4:</th>
+      <th class = "right">Take pesto sauce and spread on bottom inside bread</th>
+    </tr>
+    <tr>
+      <th class = "color">Step 5:</th>
+      <th class = "right">Preheat the panini grill to MAX heat.</th>
+    </tr>
+      <tr>
+      <th class = "color">Step 6:</th>
+      <th class = "right">Take turkey breast and put on pesto surface.</th>
+    </tr>
+      <tr>
+      <th class = "color">Step 7:</th>
+      <th class = "right">Take spinach and place over turkey</th>
+    </tr>
+      <tr>
+      <th class = "color">Step 8:</th>
+      <th class = "right">Take the cheese and place over the spinach</th>
+    </tr>
+      <tr>
+      <th class = "color">Step 9:</th>
+      <th class = "right">But the top bread over the spinach, and place sandwich inside panini grill, pressing firmly for about 5-7 minutes</th>
+        <tr>
+      <th class = "color">Step 10:</th>
+      <th class = "right">Once the cheese has melted, and grill marks are visible on the bread, meal should be ready. Enjoy!</th>
+    </tr>
+  </tr>
+  </table>
+  <p>*DISCLAIMER*</p>
+  <ul>
+    <li>The dish might not turn out the way as shown in the image</li>
+    <li>Do not spend more than 25 min on making meal</li>
+  </ul>
+  <img src="sandwich.jpg"width="200" 
+     height="200" >
+</body>
+</html>

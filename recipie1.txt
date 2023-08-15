@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<body>
+<style>
+  .color{
+    background-color: red;
+  }
+  table{
+    border: 0px ;
+    border-collapse: collapse;
+  }
+  .right{
+    text-align: right;
+  }
+</style>
+</head>
+<body>
+  <h1 style="color:Blue;">Instant Noodles</h1>
+  <p>Here is the recipie for Instant Noodles! Enjoy</p>
+
+  <table>
+    <tr>
+      <th class = "color">Step 1:</th>
+      <th class = "right">Prepare water to boil, varies depending on serving size</th>
+    </tr>
+    <tr>
+      <th class = "color">Step 2:</th>
+      <th class = "right">Take the seasoning packet out of the packet(s) and pour into the water</th>
+    </tr>
+    <tr>
+      <th class = "color">Step 3:</th>
+      <th class = "right">Once the seasoning has mixed well, put the noodle cakes into the pot</th>
+    </tr>
+    <tr>
+      <th class = "color">Step 4:</th>
+      <th class = "right">Allow the noodle cake to site boiling for a couple minutes once they are soft, cover the pot </th>
+    </tr>
+    <tr>
+      <th class = "color">Step 5:</th>
+      <th class = "right">After a few minutes, feel free to add any sauces or toppers. Dig in! Your meal should look similar to the image below</th>
+    </tr>
+  </table>
+  <p>*DISCLAIMER*</p>
+  <ul>
+    <li>The dish might not turn out the way as shown in the image</li>
+    <li>Do not spend more than 10-15 min on making meal</li>
+  </ul>
+  <img src="ramen.jpg"width="200" 
+     height="200" >
+</body>
+</html>
